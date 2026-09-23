@@ -1,0 +1,55 @@
+{
+  "distrito": "Bertram",
+  "registros_origen": 33656,
+  "viviendas_distrito": 231,
+  "coordenadas_distintas": 231,
+  "filtros": {
+    "anios_vigencia": [
+      2019,
+      2020
+    ],
+    "precio_maximo_aud": 400000,
+    "habitaciones_minimas": 4
+  },
+  "deposito": {
+    "lat": -32.235054919330416,
+    "lon": 115.84263224595509,
+    "ecm_m": 37.56030645360867,
+    "max_residuo_m": 274.74322875556595,
+    "observaciones": 231,
+    "nombre": "Kwinana Station"
+  },
+  "semilla": 2026,
+  "instancias": {
+    "I08": {
+      "viviendas": 8,
+      "nodos": 9,
+      "archivo": "candidatas_I08.csv"
+    },
+    "I10": {
+      "viviendas": 10,
+      "nodos": 11,
+      "archivo": "candidatas_I10.csv"
+    },
+    "I20": {
+      "viviendas": 20,
+      "nodos": 21,
+      "archivo": "candidatas_I20.csv"
+    },
+    "I37": {
+      "viviendas": 37,
+      "nodos": 38,
+      "archivo": "candidatas_I37.csv"
+    },
+    "I56": {
+      "viviendas": 56,
+      "nodos": 57,
+      "archivo": "candidatas_I56.csv"
+    },
+    "I231": {
+      "viviendas": 231,
+      "nodos": 232,
+      "archivo": "candidatas_I231.csv"
+    }
+  }
+}

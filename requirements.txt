@@ -1,0 +1,6 @@
+geopy>=2.4
+osmnx>=1.9
+networkx>=3.0
+pyomo>=6.7
+highspy>=1.7
+matplotlib>=3.8

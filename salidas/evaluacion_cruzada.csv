@@ -1,0 +1,7 @@
+instancia,viviendas,optimo_geodesico_km,optimo_vial_km,factor_rodeo,orden_geodesico_medido_en_red_km,sobrecosto_por_medir_en_recta_km,sobrecosto_%,misma_secuencia
+I08,8,4.916,5.807,1.181,5.841,0.034,0.59,False
+I10,10,5.675,7.484,1.319,7.517,0.033,0.45,False
+I20,20,7.258,9.174,1.264,9.482,0.308,3.36,False
+I37,37,8.255,11.165,1.353,11.533,0.368,3.3,False
+I56,56,9.115,12.438,1.365,14.583,2.146,17.25,False
+I231,231,17.481,20.393,1.167,30.283,9.89,48.5,False

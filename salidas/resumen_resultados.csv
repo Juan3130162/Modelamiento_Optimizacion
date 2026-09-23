@@ -1,0 +1,13 @@
+instancia,medicion,viviendas,nodos,orden_lista_km,vecino_cercano_km,vmc_2opt_km,optimo_km,estado_modelo,brecha_%,segundos_modelo,ahorro_vs_lista_%,exceso_2opt_vs_optimo_%
+I08,geodesica,8,9,7.843,5.447,4.916,4.916,optimal,0.0,0.116,37.3,-0.0
+I08,vial,8,9,8.843,6.654,5.841,5.807,optimal,0.0,0.318,34.3,0.59
+I10,geodesica,10,11,9.47,6.519,5.675,5.675,optimal,0.0,0.349,40.1,0.0
+I10,vial,10,11,11.162,8.024,7.528,7.484,optimal,0.0,0.515,33.0,0.6
+I20,geodesica,20,21,17.489,9.21,7.287,7.258,optimal,0.0,1.319,58.5,0.4
+I20,vial,20,21,21.447,10.305,9.174,9.174,optimal,0.0,0.256,57.2,-0.0
+I37,geodesica,37,38,30.673,10.198,8.295,8.255,optimal,0.0,260.973,73.1,0.49
+I37,vial,37,38,39.164,12.041,11.327,11.165,optimal,0.0,17.949,71.5,1.46
+I56,geodesica,56,57,49.58,10.734,9.643,9.115,maxTimeLimit,2.047,300.105,81.6,5.8
+I56,vial,56,57,64.793,15.968,12.998,12.438,maxTimeLimit,8.348,300.12,80.8,4.51
+I231,geodesica,231,232,190.94,19.387,17.481,,no resuelto,,,90.8,
+I231,vial,231,232,255.572,22.358,20.393,,no resuelto,,,92.0,

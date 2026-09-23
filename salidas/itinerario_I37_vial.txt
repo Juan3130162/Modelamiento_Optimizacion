@@ -1,0 +1,53 @@
+Itinerario optimizado - instancia I37 - medicion vial
+=====================================================
+
+Distrito:                    Bertram
+Viviendas:                   37
+Punto de inicio y cierre:    Kwinana Station
+Metodo:                      modelo exacto MTZ
+Estado:                      optimal
+
+Orden Punto                                 Tramo (m)    Acumulado
+------------------------------------------------------------------
+0     Kwinana Station (inicio y cierre)           0.0          0.0
+1     31 Keyham Street                          686.7        686.7
+2     16 Silverline Bend                        738.6       1425.3
+3     8 Camborne Approach                        40.4       1465.7
+4     12 Dewsbury Drive                         210.6       1676.2
+5     9 Champion Drive                          665.9       2342.2
+6     14 Champion Drive                          36.5       2378.6
+7     8 Napoleon Way                            186.1       2564.7
+8     18 Parkfield Boulevard                     74.9       2639.5
+9     9 Kawoor Mews                             655.6       3295.2
+10    36 Moombaki Avenue                        479.9       3775.0
+11    6 Yoorn Way                                 0.0       3775.0
+12    16 Mickle Way                             384.3       4159.3
+13    36 Wanstead Vista                         208.5       4367.8
+14    34 Burkett Terrace                        260.8       4628.6
+15    17 Greenham Way                           335.2       4963.8
+16    10 Daniels Place                            0.0       4963.8
+17    6 Yirel Close                             478.4       5442.2
+18    13 Chieftain Street                       352.8       5795.0
+19    5 Drummore Way                            410.7       6205.7
+20    8 Drummore Way                              0.0       6205.7
+21    11 Heathcote Way                          422.6       6628.3
+22    277 Johnson Road                           86.8       6715.1
+23    283 Johnson Road                            0.0       6715.1
+24    253 Johnson Road                          337.7       7052.8
+25    17 John Forrest Circuit                   397.3       7450.1
+26    8 Kalbarri Crescent                       186.2       7636.3
+27    38 Shannon Pass                           275.6       7911.9
+28    74 Centennial Avenue                        0.0       7911.9
+29    90 Centennial Avenue                      158.3       8070.2
+30    93 Centennial Avenue                       70.7       8140.9
+31    2A Lilac Pass                             170.1       8311.0
+32    31 Cape York Ramble                       280.8       8591.8
+33    3 Cape York Ramble                         41.4       8633.2
+34    75 Sanctuary Drive                        575.9       9209.1
+35    67 Sanctuary Drive                         81.5       9290.6
+36    6 Lakewood Grove                          232.5       9523.0
+37    21 Waterfields Drive                      726.1      10249.1
+38    Kwinana Station (inicio y cierre)         915.7      11164.8
+------------------------------------------------------------------
+DISTANCIA TOTAL (m)                                        11164.8
+DISTANCIA TOTAL (km)                                         11.16
